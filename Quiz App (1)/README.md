@@ -25,10 +25,10 @@ We can also see the rankings of students as per their marks.
     <td>Questions</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(1).png" width=300><br>
-    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(2).png" width=300><br>
-    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(3).png" width=300><br>
-    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(4).png" width=300><br>
-    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(5).png" width=300></td>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(1).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(2).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(3).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(4).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(5).png" width=1000></td>
   </tr>
  </table>
