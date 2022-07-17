@@ -13,7 +13,7 @@ We can also see the rankings of students as per their marks.
   </tr>
   <tr>
     <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Project%20Structure.png" width=270 height=480></td>
-    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Database%20Structure.png">
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Database%20Structure.png"><br>
     <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Questions%20Database.png" width=360 height=200>
     <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student's%20Detail%20Database.png"></td>
   </tr>
