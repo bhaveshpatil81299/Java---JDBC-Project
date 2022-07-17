@@ -31,4 +31,16 @@ We can also see the rankings of students as per their marks.
     <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(4).png" width=1000><br>
     <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Quiz%20(5).png" width=1000></td>
   </tr>
+  <tr>
+    <td>Score</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%203%20-%20Score.png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Ranking</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Ranking.png" width=1000></td>
+  </tr>
  </table>
