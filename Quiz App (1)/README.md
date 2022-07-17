@@ -10,10 +10,9 @@ We can also see the rankings of students as per their marks.
   <tr>
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
     <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Project%20Structure.png" width=270 height=480></td>
-    <td><img src="[screenshots/Screenshot_1582745125.png](https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Database%20Structure.png)" width=270 height=480></td>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Database%20Structure.png" width=270 height=480></td>
   </tr>
  </table>
