@@ -5,7 +5,6 @@ Here we can also get the score of a particular student using his/her Id which is
 We can also see the rankings of students as per their marks.
 
 ## Screenshots of the Project and Database Structure
-![Project Structure](https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Project%20Structure.png)
 <table>
   <tr>
     <td>Project Structure</td>
@@ -44,3 +43,47 @@ We can also see the rankings of students as per their marks.
     <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%202%20-%20Ranking.png" width=1000></td>
   </tr>
  </table>
+ ## Screenshots of the Code
+<table>
+  <tr>
+    <td>Start Quiz - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Start%20Quiz%20-%20Class(1).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Start%20Quiz%20-%20Class(2).png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Rules For Quiz - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Rules%20For%20Quiz%20-%20Class.png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Student Input And Questions - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student%20Input%20And%20Questions%20-%20Class(1).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student%20Input%20And%20Questions%20-%20Class(2).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student%20Input%20And%20Questions%20-%20Class(3).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student%20Input%20And%20Questions%20-%20Class(4).png" width=1000><br>
+    <img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Student%20Input%20And%20Questions%20-%20Class(5).png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Get Id - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Get%20Id%20-%20Class.png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Get Ranking - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Get%20Ranking%20-%20Class.png" width=1000></td>
+  </tr>
+  <tr>
+    <td>Get Score - Class</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Get%20Score%20-%20Class.png" width=1000></td>
+  </tr>
+  </table>
