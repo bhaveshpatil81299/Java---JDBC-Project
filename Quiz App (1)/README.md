@@ -6,5 +6,5 @@ We can also see the rankings of students as per their marks.
 
 ## Screenshots of the Project
 
-![App Screenshot](./Images/Database Structure.png)
+![App Screenshot](https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Database%20Structure.png)
 
