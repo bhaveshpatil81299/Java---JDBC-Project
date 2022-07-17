@@ -20,6 +20,9 @@ We can also see the rankings of students as per their marks.
 
 ## Screenshots of the Output
 <table>
+<tr>
+  <td><img src="https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Output%201.png" width=1000></td>
+</tr>
   <tr>
     <td>Questions</td>
   </tr>
