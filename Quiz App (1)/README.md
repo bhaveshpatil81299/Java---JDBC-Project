@@ -6,5 +6,5 @@ We can also see the rankings of students as per their marks.
 
 ## Screenshots of the Project
 
-![App Screenshot](Images/Database Structure.png)
+![App Screenshot](./Images/Database Structure.png)
 
