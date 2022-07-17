@@ -5,5 +5,5 @@ Here we can also get the score of a particular student using his/her Id which is
 We can also see the rankings of students as per their marks.
 
 ## Screenshots of the Project
-![This is an image](Images/Database Structure.png)
+![Project Structure](https://github.com/bhaveshpatil81299/Java---JDBC-Project/blob/main/Quiz%20App%20(1)/Images/Project%20Structure.png)
 
